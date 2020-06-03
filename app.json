@@ -30,7 +30,7 @@
       "package": "com.vuenative.impl",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyD9ajCqsUZGVg_tIfm1mvfwg2B5D1GVYU8"
+          "apiKey": "YOUR-API-KEY"
         }
       }  
     },

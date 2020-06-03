@@ -37,7 +37,7 @@ export default {
         latitudeDelta: 0.1,
         longitudeDelta: 0.05
       },
-      apiKey: "250156227837977862721x6122",
+      apiKey: "YOUR-API-KEY",
       mark: null,
       storageKey:null,
       listaLocal: [],
